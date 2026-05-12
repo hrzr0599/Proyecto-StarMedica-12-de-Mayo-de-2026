@@ -1,4 +1,4 @@
-Actua como un administrador de base de datos; proyecto Hospital StarMedica, que entidades se necesitan para su gestion
+# Actua como un administrador de base de datos; proyecto Hospital StarMedica, que entidades se necesitan para su gestion
 
 Como DBA del proyecto Hospital StarMedica, aquí está el análisis de entidades necesarias para una gestión hospitalaria completa:
 
@@ -36,3 +36,9 @@ El modelo se organiza en **6 dominios funcionales**:
 - Se puede agregar `CONSULTORIO` como entidad separada si el hospital maneja múltiples consultorios con agenda propia.
 
 ¿Quieres que profundice en algún dominio específico, defina los tipos de datos exactos, o diseñe el esquema SQL de alguna tabla?
+
+
+# Las entidades con sus atributos y tipo en forma de tabla para cada una de las entidades
+
+<img width="1440" height="3248" alt="image" src="https://github.com/user-attachments/assets/310b75cf-122d-44a4-8603-01676f6a1fb0" />
+
